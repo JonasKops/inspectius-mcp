@@ -1,0 +1,33 @@
+{
+ "werkzeug": "bebauungsplan_an_adresse",
+ "eingabe": {
+  "adresse": "Duisburger Straße 100, 45479 Mülheim an der Ruhr"
+ },
+ "abgerufen": "2026-10-18",
+ "antwort": {
+  "koordinate": {
+   "lat": 51.42731,
+   "lon": 6.856614
+  },
+  "adresse_gefunden": "100, Duisburger Straße, Broicher Mitte, Broich, Linksruhr, Mülheim an der Ruhr, Nordrhein-Westfalen, 45479, Deutschland",
+  "lage_quelle": "Hauskoordinate Geobasis NRW (INSPIRE-Adressen), dl-de/zero-2.0",
+  "ergebnis": "Bebauungsplan gefunden",
+  "plannummer": "M_9",
+  "titel": "Hochschule Ruhr West / Duisburger Straße - M 9",
+  "planart": "Qualifizierter BPlan (§ 30 Abs. 1 BauGB)",
+  "rechtsstatus": "rechtsverbindlich oder in Kraft (In Kraft getreten)",
+  "gueltig_seit": "2012-03-15",
+  "kommune": "Mülheim an der Ruhr",
+  "land": "Nordrhein-Westfalen",
+  "textteil_url": "https://geodaten.muelheim-ruhr.de/files/bplantxt/m09.pdf",
+  "festsetzungen": "Vom Landesdienst nicht strukturiert geliefert — stehen im Plandokument.",
+  "quelle": "Geoinformationszentrum, Information und Technik Nordrhein-Westfalen (Räumliche Pläne nach BauGB), dl-de/by-2-0",
+  "vermerk": "Land NRW (2026-10-18), dl-de/by-2-0, https://ogc-api.nrw.de/inspire-lu-bplan",
+  "lizenz": {
+   "name": "dl-de/by-2-0",
+   "url": "https://www.govdata.de/dl-de/by-2-0"
+  },
+  "maßgeblich": "Orientierung — maßgeblich ist der amtliche Auszug.",
+  "dokument_hinweis": "Das Plandokument stellt die Kommune in ihrem Geoportal bereit."
+ }
+}

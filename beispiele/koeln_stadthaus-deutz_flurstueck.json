@@ -1,0 +1,31 @@
+{
+ "werkzeug": "flurstueck_an_adresse",
+ "eingabe": {
+  "adresse": "Willy-Brandt-Platz 2, 50679 Köln"
+ },
+ "antwort": {
+  "koordinate": {
+   "lat": 50.938678,
+   "lon": 6.979145
+  },
+  "adresse_gefunden": "2, Willy-Brandt-Platz, Deutz, Innenstadt, Köln, Nordrhein-Westfalen, 50679, Deutschland",
+  "land": "Nordrhein-Westfalen",
+  "ergebnis": "Flurstück gefunden",
+  "gemarkung": "Deutz",
+  "gemarkungsnummer": "4972",
+  "flur": "33",
+  "flurstueck": "748",
+  "kennzeichen": "05497203300748______",
+  "flaeche_m2": 24205,
+  "flaeche_herkunft": "amtliche Fläche (ALKIS)",
+  "lage": "Willy-Brandt-Platz 2",
+  "quelle": "ALKIS vereinfacht NRW",
+  "vermerk": "© Geobasis NRW",
+  "lizenz": {
+   "name": "dl-de/zero-2-0",
+   "url": "https://www.govdata.de/dl-de/zero-2-0"
+  },
+  "abgerufen": "2026-10-18T03:37:52.864Z",
+  "maßgeblich": "Orientierung — maßgeblich ist der amtliche Auszug."
+ }
+}

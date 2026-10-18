@@ -1,0 +1,50 @@
+{
+ "werkzeug": "risiken_an_adresse",
+ "eingabe": {
+  "adresse": "Rathausmarkt 1, 20095 Hamburg"
+ },
+ "abgerufen": "2026-10-18",
+ "antwort": {
+  "koordinate": {
+   "lat": 53.550544,
+   "lon": 9.992628
+  },
+  "adresse_gefunden": "Rathaus, 1, Rathausmarkt, Altstadt, Hamburg-Mitte, Hamburg, 20095, Deutschland",
+  "ergebnis": "Standortrisiken",
+  "bundesland": "Hamburg",
+  "uebersicht": "1× an der Adresse betroffen · 5× nicht betroffen · 4× Angabe (Wert, keine Gefahrenstufe) · 1× nicht an der Adresse, aber in der Umgebung · 1× für diese Lage nicht angebunden",
+  "themen": [
+   {
+    "thema": "hochwasser",
+    "status": "betroffen",
+    "angabe": "Risikogebiet Tideelbe mit Neuwerk (Risiko Hoch): Amtlich ausgewiesenes Hochwasserrisikogebiet (Küsten-/Flusshochwasser) — Risikogebiet Tideelbe mit Neuwerk.",
+    "quelle": "Amtliche Hochwassergefahrenkarte des Landes Hamburg (EU-Hochwasserrisikomanagement-Richtlinie), Abfrage an der Objekt-Koordinate"
+   },
+   {
+    "thema": "ueberschwemmungsgebiet",
+    "status": "nicht-betroffen",
+    "angabe": "Kein rechtlich festgesetztes Überschwemmungsgebiet",
+    "quelle": "Überschwemmungsgebiete Hamburg (BUKEA)"
+   },
+   {
+    "thema": "radon",
+    "status": "angabe",
+    "angabe": "Niedrig (5 kBq/m³ Bodenpotenzial)",
+    "quelle": "BfS Radonpotenzial, dl-de/zero-2.0"
+   },
+   {
+    "thema": "denkmal",
+    "status": "in-der-umgebung",
+    "angabe": "Bau-/Kulturdenkmal am Standort oder in unmittelbarer Umgebung. Ob das Gebäude selbst geschützt ist, klärt die Untere Denkmalbehörde.",
+    "quelle": "Freie und Hansestadt Hamburg (Denkmalschutzamt), dl-de/by-2-0"
+   },
+   {
+    "thema": "altlasten",
+    "status": "keine-abdeckung",
+    "angabe": "Für diese Lage ist kein offenes Altlastenkataster angebunden. Auskunft gibt die untere Bodenschutzbehörde."
+   }
+  ],
+  "hinweis_gekuerzt": "7 weitere Themen ausgelassen",
+  "maßgeblich": "Orientierung aus amtlichen Diensten — maßgeblich sind die zuständigen Behörden."
+ }
+}

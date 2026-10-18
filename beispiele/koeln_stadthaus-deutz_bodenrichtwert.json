@@ -1,0 +1,34 @@
+{
+ "werkzeug": "bodenrichtwert_an_adresse",
+ "eingabe": {
+  "adresse": "Willy-Brandt-Platz 2, 50679 Köln"
+ },
+ "abgerufen": "2026-10-18",
+ "antwort": {
+  "koordinate": {
+   "lat": 50.938678,
+   "lon": 6.979145
+  },
+  "adresse_gefunden": "2, Willy-Brandt-Platz, Deutz, Innenstadt, Köln, Nordrhein-Westfalen, 50679, Deutschland",
+  "ergebnis": "Bodenrichtwert gefunden",
+  "wert_eur_je_m2": 1030,
+  "stichtag": "2026-01-01",
+  "nutzungsart": "Kerngebiet (MK)",
+  "entwicklungszustand": "baureifes Land (B)",
+  "richtwertgrundstueck": {
+   "geschosszahl": "V-VI",
+   "wgfz": 2.4,
+   "bemerkung": "Deutz-Kalker-Str./Opladener Str."
+  },
+  "zonenhinweis": "Büro",
+  "umrechnungsvorschrift": "https://www.boris.nrw.de/borisfachdaten/lgd/brw/2026/LGDBR_2_0511400_2026.pdf",
+  "gutachterausschuss": "Der Gutachterausschuss für Grundstückswerte in der Stadt Köln",
+  "land": "Nordrhein-Westfalen",
+  "quelle": "Bodenrichtwerte Geobasis NRW, dl-de/zero-2-0",
+  "lizenz": {
+   "name": "dl-de/zero-2-0",
+   "url": "https://www.govdata.de/dl-de/zero-2-0"
+  },
+  "maßgeblich": "Orientierung — maßgeblich ist der amtliche Auszug."
+ }
+}
